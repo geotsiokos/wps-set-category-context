@@ -37,7 +37,7 @@ class WPS_Set_Category_Context {
 						'taxonomy' => 'product_cat',
 						'term'     => $key
 					)
-					);
+				);
 			}
 		}
 	}
