@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WPS Set Category Contenxt
- * Plugin URI: https://github.com/geotsiokos/wps-include-backorder-products.git
+ * Plugin URI: https://github.com/geotsiokos/wps-set-category-context
  * Description: Sets category context, using the [woocommerce_product_filter_context] shortcode
  * Version: 1.0.0
  * Author: gtsiokos
